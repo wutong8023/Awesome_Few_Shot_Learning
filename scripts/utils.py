@@ -173,12 +173,12 @@ def get_hyperlink(hyperlinks, mapping_name):
     str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/README.md)\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += "- " + mapping_name[item]
-        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/cl4all/" + \
+        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/" + \
                          item + ')'
-        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/cl4nlp/" + \
+        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4nlp/" + \
                          item + ')'
         str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main" \
-                         "/cl4cv_robot/" + item + ')\n'
+                         "/fsl4cv_robot/" + item + ')\n'
     
     return str_hyperlink
 
