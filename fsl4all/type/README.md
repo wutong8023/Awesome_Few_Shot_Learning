@@ -1,10 +1,10 @@
-# Few-shot Learning for NLP Literature 
+# Few-shot Learning Literature 
 This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). The automation script of this repo is adapted from [Automatic_Awesome_Bibliography](https://github.com/TLESORT/Automatic_Awesome_Bibliography).
 
-This page categorizes the literature by the **Author**, filtered by NLP area.
+This page categorizes the literature by the Resource Type.
 
 ## Outline 
-- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/author/README.md#hyperlink)
+- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/type/README.md#hyperlink)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./)

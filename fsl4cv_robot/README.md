@@ -1,14 +1,14 @@
 # Few-shot Learning for CV or Robotics Literature 
 This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). The automation script of this repo is adapted from [Automatic_Awesome_Bibliography](https://github.com/TLESORT/Automatic_Awesome_Bibliography).
 
-This page categorizes the literature by the Resource Type, filtered by CV or Robotics area.
+This page categorizes the literature by the **Published Venue**, filtered by CV or Robotics area.
 
 ## Outline 
 - [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./README.md#hyperlink)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./)
-- Published Venue of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/venue) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/venue) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/venue)
+- Resource Type of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/type) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/type) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/type)
 - Published Time of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/time) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/time) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/time)
 - Application of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/application) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/application) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/application)
 -  Learning Paradigm of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/supervision) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/supervision) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/supervision)
@@ -19,3 +19,4 @@ This page categorizes the literature by the Resource Type, filtered by CV or Rob
 - Dataset of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/dataset) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/dataset) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/dataset)
 - Metrics of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/metrics) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/metrics) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/metrics)
 - Author of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/author) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/author) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/author)
+- Published Venue of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/venue) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/venue) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/venue)
