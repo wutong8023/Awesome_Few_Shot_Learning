@@ -4,7 +4,7 @@ This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please 
 This page categorizes the literature by the **Author**, filtered by CV or Robotics area.
 
 ## Outline 
-- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4cv_robot/author/README.md#hyperlink)
+- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/author/README.md#hyperlink)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./)
