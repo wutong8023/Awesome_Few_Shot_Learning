@@ -170,14 +170,14 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
 def get_hyperlink(hyperlinks, mapping_name):
     str_hyperlink = "## Hyperlink \n"
     
-    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/README.md)\n"
+    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += "- " + mapping_name[item]
-        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/" + \
+        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/" + \
                          item + ')'
-        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4nlp/" + \
+        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/" + \
                          item + ')'
-        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main" \
+        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master" \
                          "/fsl4cv_robot/" + item + ')\n'
     
     return str_hyperlink
