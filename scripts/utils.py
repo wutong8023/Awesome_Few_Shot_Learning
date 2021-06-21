@@ -48,7 +48,7 @@ def get_bibtex_line(filename, ID):
 def create_bib_link(ID):
     link = bibtex_filename
     start_bib, end_bib = get_bibtex_line(link, ID)
-    link = "https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/" + link
+    link = "https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + link
     
     # bibtex file is one folder upon markdown files
     # link = "../blob/master/" + link
@@ -156,12 +156,12 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     str_outline += "## Outline \n"
     
     if add_hyperlink:
-        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/" + \
+        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + \
                        filename + '#hyperlink)\n'
     
     for i, item in enumerate(list_classif):
         str_outline += "- [" + str(count_list[i]) + "] [" + item[
-            0] + "](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/" + filename + "#" \
+            0] + "](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + filename + "#" \
                        + item[0].replace(" ", "-").lower() + ')\n'
     
     return str_outline
