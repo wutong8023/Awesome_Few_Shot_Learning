@@ -23,9 +23,13 @@ def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles
                      filter_content=["CV", "Multi-Modal", "Robotics"],
                      discrib=disc + ", filtered by CV or Robotics area.", add_hyperlink=True,
                      hyperlinks=dir_path)
-    generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,
-                     filename="README.md", add_comments=True, dir_path=sub_dirs[2][index], mapping_name=mapping_name,
-                     discrib=disc + ".", add_hyperlink=True, hyperlinks=dir_path)
+    for dir_ in [sub_dirs[2][index], "./"]:
+        generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,
+                         filename="README.md", add_comments=True, dir_path=dir_,
+                         mapping_name=mapping_name,
+                         discrib=disc + ".", add_hyperlink=True, hyperlinks=dir_path)
+        if index != 0:
+            break
 
 
 fined_taxonomy = {
