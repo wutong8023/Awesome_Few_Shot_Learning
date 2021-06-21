@@ -5,8 +5,8 @@ This page categorizes the literature by the **Author**.
 
 ## Outline 
 - [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/author/README.md#hyperlink)
+- [3] [Timo Schick](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/author/README.md#timo-schick)
 - [2] [Hinrich Sch{\"u}tze](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/author/README.md#hinrich-sch{\"u}tze)
-- [2] [Timo Schick](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/author/README.md#timo-schick)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./)
@@ -22,7 +22,7 @@ This page categorizes the literature by the **Author**.
 - Metrics of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/metrics) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/metrics) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/metrics)
 - Author of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/author) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/author) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/author)
 
-## Hinrich Sch{\"u}tze
+## Timo Schick
 
 - [**Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference**](https://www.aclweb.org/anthology/2021.eacl-main.20) , (EACL 2021)<br> by *Schick, Timo and
 Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L39-L47) <br>
@@ -30,7 +30,10 @@ Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Lea
 - [**It{'}s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners**](https://www.aclweb.org/anthology/2021.naacl-main.185) , (NAACL-HLT 2021)<br> by *Schick, Timo and
 Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L50-L58) <br>
 
-## Timo Schick
+- [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) , (CoRR 2020)<br> by *Timo Schick and
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L164-L172) <br>
+
+## Hinrich Sch{\"u}tze
 
 - [**Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference**](https://www.aclweb.org/anthology/2021.eacl-main.20) , (EACL 2021)<br> by *Schick, Timo and
 Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L39-L47) <br>

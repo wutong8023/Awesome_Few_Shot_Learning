@@ -6,7 +6,7 @@ This page categorizes the literature by the **Last Post**.
 ## Outline 
 - [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/time/README.md#hyperlink)
 - [6] [2021](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/time/README.md#2021)
-- [4] [2020](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/time/README.md#2020)
+- [5] [2020](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/fsl4all/time/README.md#2020)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv_robot/./)
@@ -103,3 +103,6 @@ Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/b
 - [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , (CoRR 2020)<br> by *Tianyu Gao and
 Adam Fisch and
 Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L131-L141) <br>
+
+- [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) , (CoRR 2020)<br> by *Timo Schick and
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/main/./bibtex.bib#L164-L172) <br>
