@@ -1,11 +1,11 @@
-# Few-shot Learning Literature 
+# Few-shot Learning Literature in CV 
 This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
-This page categorizes the literature by the **Continual Learning Setting**.
+This page categorizes the literature by the **Metrics**, filtered by CV area.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/setting/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv/metrics/README.md#hyperlink)
 ## Hyperlink 
 - Homepage [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/./) | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/./) | [CV](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4cv./)

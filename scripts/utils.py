@@ -1,8 +1,8 @@
 import os
 import bibtexparser
+from config import *
 
 bibtex_filename = "./bibtex.bib"
-
 
 def keep_last_and_only(authors_str):
     """
@@ -44,11 +44,10 @@ def get_bibtex_line(filename, ID):
     assert end_line_number > 0
     return start_line_number, end_line_number
 
-
 def create_bib_link(ID):
     link = bibtex_filename
     start_bib, end_bib = get_bibtex_line(link, ID)
-    link = "https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + link
+    link = base_link + link
     
     # bibtex file is one folder upon markdown files
     # link = "../blob/master/" + link
@@ -65,23 +64,37 @@ def get_md_entry(DB, entry, add_comments=True):
     :return: markdown string
     """
     md_str = "\n"
-    
+
+    paper_title = entry['title'].replace("{", "")
+    paper_title = paper_title.replace("}", "")
+
     if 'url' in entry.keys():
-        md_str += "- [**" + entry['title'] + "**](" + entry['url'] + ") "
+        md_str += "- [**" + paper_title + "**](" + entry['url'] + ") "
     else:
-        md_str += "- **" + entry['title'] + "**"
-    
-    md_str += ", ("
+        md_str += "- **" + paper_title + "**"
+
+    venue = ""
+    year = ""
     
     if "booktitle" in entry.keys():
-        md_str += entry["booktitle"].replace("Proceedings of ", "")
-    
+        venue = entry["booktitle"].replace("Proceedings of ", "")
     if "journal" in entry.keys():
-        md_str += entry["journal"]
+        venue += entry["journal"].replace("{", "").replace("}", "")
     
-    md_str += " "
-    md_str += entry['year'] + ")<br>"
+    venue = venue.replace(" ", "_").replace("-", "_")
+    if "year" in entry.keys():
+        year = entry['year']
     
+    if venue != "" or year != "":
+        tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
+        if "url" not in entry.keys():
+            print(entry["ID"])
+        tag = "[{}]({})".format(tag, entry['url'])
+        md_str += ", {}<br>".format(tag)
+    else:
+        md_str += ", <br>"
+
+
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
     
     md_str += " [[bib]](" + create_bib_link(entry['ID']) + ") "
@@ -118,7 +131,7 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
                         elem in DB.entries[i][filter_key] for elem in filter_content)):
                     continue
             
-            if key == "booktitle":
+            if key == "booktitle" or key == "journal":
                 if any(DB.entries[i][key].replace("Proceedings of ", "").startswith(elem) for elem in item):
                     str_md = get_md_entry(DB, DB.entries[i], add_comments)
                     list_entry.update({str_md: DB.entries[i]['year']})
@@ -137,50 +150,6 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
         all_str += elem[0]
     
     return all_str, len(sorted_tuple_list)
-
-
-def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False):
-    if filename.startswith("fsl4nlp"):
-        str_outline = "# Few-shot Learning for NLP Literature \n"
-    elif filename.startswith("fsl4cv"):
-        str_outline = "# Few-shot Learning for CV or Robotics Literature \n"
-    else:
-        str_outline = "# Few-shot Learning Literature \n"
-    
-    str_outline += "This repository is maintained by [Tongtong Wu](https://wutong8023.site). " \
-                   "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). " \
-                   "The automation script of this repo is adapted from [Automatic_Awesome_Bibliography]" \
-                   "(https://github.com/TLESORT/Automatic_Awesome_Bibliography).\n\n"
-    str_outline += dicrib + "\n\n"
-    
-    str_outline += "## Outline \n"
-    
-    if add_hyperlink:
-        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + \
-                       filename + '#hyperlink)\n'
-    
-    for i, item in enumerate(list_classif):
-        str_outline += "- [" + str(count_list[i]) + "] [" + item[
-            0] + "](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/" + filename + "#" \
-                       + item[0].replace(" ", "-").lower() + ')\n'
-    
-    return str_outline
-
-
-def get_hyperlink(hyperlinks, mapping_name):
-    str_hyperlink = "## Hyperlink \n"
-    
-    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/README.md)\n"
-    for i, item in enumerate(hyperlinks):
-        str_hyperlink += "- " + mapping_name[item]
-        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4all/" + \
-                         item + ')'
-        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/" + \
-                         item + ')'
-        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master" \
-                         "/fsl4cv_robot/" + item + ')\n'
-    
-    return str_hyperlink
 
 
 def format_author(author_str: str):
@@ -219,11 +188,12 @@ def get_author_list(DB, filter_key, filter_content, filter_num=1):
                 author_dict[author] = author_dict[author] + 1
             else:
                 author_dict[author] = 1
-    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num][::-1]
+    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num]
     return authors
 
 
-def generate_md_file(DB, list_classif, key, plot_title_fct, filename, dir_path="./", add_comments=True, discrib="",
+def generate_md_file(DB, list_classif, key, plot_title_fct, filename, get_outline, get_hyperlink,
+                     dir_path="./", add_comments=True, discrib="",
                      filter_key="", filter_content=None, add_hyperlink=False, hyperlinks=None, mapping_name=None):
     """
     :param dir_path: dictionary path
