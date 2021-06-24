@@ -181,6 +181,7 @@ Tom Goldstein* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/t
 - [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.15723)<br> by *Tianyu Gao and
 Adam Fisch and
 Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1829-L1838) <br>
+``` ACL 2021 ``` 
 
 ## Sung Whan Yoon
 
@@ -360,6 +361,7 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tre
 - [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.15723)<br> by *Tianyu Gao and
 Adam Fisch and
 Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1829-L1838) <br>
+``` ACL 2021 ``` 
 
 ## Graham Neubig
 
@@ -380,6 +382,7 @@ Eric Wallace and
 Shi Feng and
 Dan Klein and
 Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1719-L1730) <br>
+``` ICML 2021 ``` 
 
 - [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , [![](https://img.shields.io/badge/EMNLP-2020-red)](https://www.aclweb.org/anthology/2020.emnlp-main.346)<br> by *Shin, Taylor  and
 Razeghi, Yasaman  and
@@ -394,6 +397,7 @@ Eric Wallace and
 Shi Feng and
 Dan Klein and
 Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1719-L1730) <br>
+``` ICML 2021 ``` 
 
 - [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , [![](https://img.shields.io/badge/EMNLP-2020-red)](https://www.aclweb.org/anthology/2020.emnlp-main.346)<br> by *Shin, Taylor  and
 Razeghi, Yasaman  and
@@ -501,6 +505,7 @@ Bowen Yu and
 Tingwen Liu and
 Yubin Wang and
 Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1841-L1854) <br>
+``` ACL 2021 ``` 
 
 ## Wenpeng Yin
 
@@ -546,6 +551,7 @@ Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
 Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1798-L1812) <br>
+``` ACL 2021 preprint ``` 
 
 ## Ning Ding
 
@@ -563,6 +569,7 @@ Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
 Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1798-L1812) <br>
+``` ACL 2021 preprint ``` 
 
 ## Zhiyuan Liu
 
@@ -580,6 +587,7 @@ Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
 Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1798-L1812) <br>
+``` ACL 2021 preprint ``` 
 
 ## Hinrich Sch{\"{u}}tze
 
@@ -593,6 +601,7 @@ Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
 Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1857-L1870) <br>
+``` ACL 2021 ``` 
 
 ## Mengye Ren
 
@@ -733,6 +742,7 @@ Eric Wallace and
 Shi Feng and
 Dan Klein and
 Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1719-L1730) <br>
+``` ICML 2021 ``` 
 
 - [**Meta-tuning Language Models to Answer Prompts Better**](https://arxiv.org/abs/2104.04670) , [![](https://img.shields.io/badge/CoRR-2021-red)](https://arxiv.org/abs/2104.04670)<br> by *Ruiqi Zhong and
 Kristy Lee and

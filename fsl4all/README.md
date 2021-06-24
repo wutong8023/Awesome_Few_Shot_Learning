@@ -686,6 +686,7 @@ Eric Wallace and
 Shi Feng and
 Dan Klein and
 Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1719-L1730) <br>
+``` ICML 2021 ``` 
 
 - [**Meta-tuning Language Models to Answer Prompts Better**](https://arxiv.org/abs/2104.04670) , [![](https://img.shields.io/badge/CoRR-2021-red)](https://arxiv.org/abs/2104.04670)<br> by *Ruiqi Zhong and
 Kristy Lee and
@@ -712,12 +713,14 @@ Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
 Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1798-L1812) <br>
+``` ACL 2021 preprint ``` 
 
 - [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , [![](https://img.shields.io/badge/CoRR-2021-red)](https://arxiv.org/abs/2101.00438)<br> by *Ori Ram and
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
 Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1815-L1826) <br>
+``` ACL 2021 ``` 
 
 - [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.11926)<br> by *Timo Schick and
 Hinrich Sch{\"{u\textsl{}}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1573-L1581) <br>
@@ -725,10 +728,12 @@ Hinrich Sch{\"{u\textsl{}}}tze* [[bib]](https://github.com/wutong8023/Awesome_Fe
 - [**Parameter-Efficient Transfer Learning with Diff Pruning**](https://arxiv.org/abs/2012.07463) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.07463)<br> by *Demi Guo and
 Alexander M. Rush and
 Yoon Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1745-L1754) <br>
+``` ACL 2021 ``` 
 
 - [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.15723)<br> by *Tianyu Gao and
 Adam Fisch and
 Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1829-L1838) <br>
+``` ACL 2021 ``` 
 
 - [**Few-Shot Event Detection with Prototypical Amortized Conditional Random
 Field**](https://arxiv.org/abs/2012.02353) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.02353)<br> by *Xin Cong and
@@ -737,6 +742,7 @@ Bowen Yu and
 Tingwen Liu and
 Yubin Wang and
 Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1841-L1854) <br>
+``` ACL 2021 ``` 
 
 - [**A Closer Look at Few-Shot Crosslingual Transfer: Variance, Benchmarks
 and Baselines**](https://arxiv.org/abs/2012.15682) , [![](https://img.shields.io/badge/CoRR-2020-red)](https://arxiv.org/abs/2012.15682)<br> by *Mengjie Zhao and
@@ -745,3 +751,4 @@ Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
 Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/./bibtex.bib#L1857-L1870) <br>
+``` ACL 2021 ``` 
