@@ -98,27 +98,6 @@ def get_md_entry(DB, entry, add_comments=True):
         
     md_str += ", <br>"
 
-    # venue = ""
-    # year = ""
-    #
-    # if "booktitle" in entry.keys():
-    #     venue = entry["booktitle"].replace("Proceedings of ", "")
-    # if "journal" in entry.keys():
-    #     venue += entry["journal"].replace("{", "").replace("}", "")
-    #
-    # venue = venue.replace(" ", "_").replace("-", "_")
-    # if "year" in entry.keys():
-    #     year = entry['year']
-    #
-    # if venue != "" or year != "":
-    #     tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
-    #     if "url" not in entry.keys():
-    #         print(entry["ID"])
-    #     tag = "[{}]({})".format(tag, entry['url'])
-    #     md_str += ", {}<br>".format(tag)
-    # else:
-    #     md_str += ", <br>"
-
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
 
     md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")<br> "
@@ -131,8 +110,9 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += DB.strings[entry['ID'].lower()]
             md_str += '\n```'
     md_str += "</details>"
-
-    md_str += '<details><summary><img src="./scripts/svg/copy-5.png" height="20"></summary>'
+    
+    img_link = base_link + "scripts/svg/copy-5.png"
+    md_str += f'<details><summary><img src={img_link} height="20"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
 
     # md_str += '<br>\n'
