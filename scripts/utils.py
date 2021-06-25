@@ -107,7 +107,7 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += '\n```'
     md_str += "</details>"
 
-    md_str += '<details><summary>![fa-crown](./scripts/svg/copy-regular.svg)</summary>'
+    md_str += '<details><summary>![fas fa-crown fa-sm](./scripts/svg/copy-regular.svg)</summary>'
     md_str += f"<pre>```{entry['ID']}```"
 
     # md_str += '<br>\n'
