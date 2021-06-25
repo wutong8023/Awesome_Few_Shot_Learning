@@ -94,20 +94,23 @@ def get_md_entry(DB, entry, add_comments=True):
     else:
         md_str += ", <br>"
 
-
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
-    
-    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ") "
-    
-    md_str += '<br>\n'
-    
+
+    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")<br> "
+
     if add_comments:
         # maybe there is a comment to write
         if entry['ID'].lower() in DB.strings:
             # print("Com : " + entry['ID'])
-            md_str += '``` '
+            md_str += '```'
             md_str += DB.strings[entry['ID'].lower()]
-            md_str += ' ``` \n'
+            md_str += '\n```'
+    md_str += "</details>"
+
+    md_str += '<details><summary><i class="far fa-copy"></i></summary>'
+    md_str += f"<pre>```{entry['ID']}```"
+
+    # md_str += '<br>\n'
     return md_str
 
 
