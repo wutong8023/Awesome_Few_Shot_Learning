@@ -6,10 +6,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-<head>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
-</head>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 This page categorizes the literature by the **Dataset**, filtered by CV area.
 
