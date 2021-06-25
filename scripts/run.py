@@ -55,6 +55,12 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
                    "[link]({bib_link_overleaf}).\n\n" \
                    "".format(author_info=author_info, personal_link=personal_link, bib_link_overleaf=bib_link_overleaf)
     
+    str_outline += '<head>'
+    str_outline += '<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>'
+    str_outline += 'str_outline += <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>'
+    str_outline += '</head>'
+    str_outline += '<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">'
+ 
     str_outline += dicrib + "\n\n"
     
     str_outline += "## Outline \n"
