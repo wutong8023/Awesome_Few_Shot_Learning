@@ -66,19 +66,19 @@ def get_md_entry(DB, entry, add_comments=True):
     md_str = "\n"
     
     md_str += "- "
-
+    
     venue = ""
     year = ""
-
+    
     if "booktitle" in entry.keys():
         venue = entry["booktitle"].replace("Proceedings of ", "")
     if "journal" in entry.keys():
         venue += entry["journal"].replace("{", "").replace("}", "")
-
+    
     venue = venue.replace(" ", "_").replace("-", "_")
     if "year" in entry.keys():
         year = entry['year']
-
+    
     if venue != "" or year != "":
         tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
         if "url" not in entry.keys():
@@ -87,21 +87,22 @@ def get_md_entry(DB, entry, add_comments=True):
         md_str += "{}".format(tag)
     else:
         md_str += ""
-
+    
     paper_title = entry['title'].replace("{", "")
     paper_title = paper_title.replace("}", "")
-
+    paper_title = paper_title.strip()
+    
     if 'url' in entry.keys():
         md_str += " [**" + paper_title + "**](" + entry['url'] + ") "
     else:
         md_str += " **" + paper_title + "**"
-        
+    
     md_str += ", <br>"
-
+    
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
-
+    
     md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")<br> "
-
+    
     if add_comments:
         # maybe there is a comment to write
         if entry['ID'].lower() in DB.strings:
@@ -114,7 +115,7 @@ def get_md_entry(DB, entry, add_comments=True):
     img_link = base_link + "scripts/svg/copy_icon.png"
     md_str += f'<details><summary><img src={img_link} height="20"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
-
+    
     # md_str += '<br>\n'
     return md_str
 
