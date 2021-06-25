@@ -111,7 +111,7 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += '\n```'
     md_str += "</details>"
     
-    img_link = base_link + "scripts/svg/copy.png"
+    img_link = base_link + "scripts/svg/copy_icon.png"
     md_str += f'<details><summary><img src={img_link} height="20"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
 
