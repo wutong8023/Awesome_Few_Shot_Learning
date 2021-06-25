@@ -64,6 +64,29 @@ def get_md_entry(DB, entry, add_comments=True):
     :return: markdown string
     """
     md_str = "\n"
+    
+    md_str += "- "
+
+    venue = ""
+    year = ""
+
+    if "booktitle" in entry.keys():
+        venue = entry["booktitle"].replace("Proceedings of ", "")
+    if "journal" in entry.keys():
+        venue += entry["journal"].replace("{", "").replace("}", "")
+
+    venue = venue.replace(" ", "_").replace("-", "_")
+    if "year" in entry.keys():
+        year = entry['year']
+
+    if venue != "" or year != "":
+        tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
+        if "url" not in entry.keys():
+            print(entry["ID"])
+        tag = "[{}]({})".format(tag, entry['url'])
+        md_str += "{}".format(tag)
+    else:
+        md_str += ""
 
     paper_title = entry['title'].replace("{", "")
     paper_title = paper_title.replace("}", "")
