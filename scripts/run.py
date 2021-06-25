@@ -57,7 +57,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     
     str_outline += '<head>'
     str_outline += '<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>'
-    str_outline += 'str_outline += <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>'
+    str_outline += '<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>'
     str_outline += '</head>'
     str_outline += '<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">'
  
