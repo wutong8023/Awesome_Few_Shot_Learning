@@ -92,9 +92,9 @@ def get_md_entry(DB, entry, add_comments=True):
     paper_title = paper_title.replace("}", "")
 
     if 'url' in entry.keys():
-        md_str += "- [**" + paper_title + "**](" + entry['url'] + ") "
+        md_str += " [**" + paper_title + "**](" + entry['url'] + ") "
     else:
-        md_str += "- **" + paper_title + "**"
+        md_str += " **" + paper_title + "**"
 
     venue = ""
     year = ""
