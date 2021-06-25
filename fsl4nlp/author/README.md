@@ -6,7 +6,12 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-<head><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script></head><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">This page categorizes the literature by the **Author**, filtered by NLP area.
+<head>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
+</head>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+This page categorizes the literature by the **Author**, filtered by NLP area.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/tree/master/fsl4nlp/author/README.md#hyperlink)
