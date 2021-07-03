@@ -6,10 +6,10 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-This page categorizes the literature by the **Last Post**, filtered by CV area.
+This page categorizes the literature by the Contribution, filtered by CV area.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4cv/time/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4cv/contribution/README.md#hyperlink)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/./)
