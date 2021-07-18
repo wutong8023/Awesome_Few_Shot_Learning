@@ -6,7 +6,7 @@ Time: 24-06-2021
 """
 user_id = "wutong8023"  # github id
 author_info = "Tongtong Wu"  # used in introduction
-personal_link = "https://wutong8023.github.io"  # used in introduction
+personal_link = "http://wutong8023.site"  # used in introduction
 repo_name = "Awesome_Few_Shot_Learning"  # repository name
 branch_name = "blob/master/"  # branch name
 your_research_topic = "fsl"  # used for dictionary name
@@ -18,7 +18,9 @@ base_link = "https://github.com/{user_id}/{repo}/{branch}".format(user_id=user_i
 
 # user customized taxonomy
 fined_taxonomy = {
-    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "AAAI",
+    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", 
+    "SIGIR",
+    "AAAI",
                    "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
     
     "Journal": [
