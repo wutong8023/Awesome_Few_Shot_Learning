@@ -36,7 +36,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Eric_Wallace-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eric-wallace)
 - [![](https://img.shields.io/badge/Graham_Neubig-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#graham-neubig)
 - [![](https://img.shields.io/badge/Hae_Beom_Lee-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hae-beom-lee)
-- [![](https://img.shields.io/badge/Hang_Gao-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hang-gao)
 - [![](https://img.shields.io/badge/Danqi_Chen-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#danqi-chen)
 - [![](https://img.shields.io/badge/Adam_Fisch-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#adam-fisch)
 - [![](https://img.shields.io/badge/Tianyu_Gao-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tianyu-gao)
@@ -98,13 +97,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Tuo_Zhao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tuo-zhao)
 - [![](https://img.shields.io/badge/Vincent_Dumoulin-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#vincent-dumoulin)
 - [![](https://img.shields.io/badge/Shi_Feng-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#shi-feng)
-- [![](https://img.shields.io/badge/Zhong_Su-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhong-su)
-- [![](https://img.shields.io/badge/Renhong_Cheng-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#renhong-cheng)
-- [![](https://img.shields.io/badge/Tiegang_Gao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tiegang-gao)
-- [![](https://img.shields.io/badge/Chao_Xue-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#chao-xue)
-- [![](https://img.shields.io/badge/Honglei_Guo-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#honglei-guo)
-- [![](https://img.shields.io/badge/Shiwan_Zhao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#shiwan-zhao)
-- [![](https://img.shields.io/badge/Mengting_Hu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#mengting-hu)
+- [![](https://img.shields.io/badge/Hang_Gao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hang-gao)
 - [![](https://img.shields.io/badge/Pengjun_Xie-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#pengjun-xie)
 - [![](https://img.shields.io/badge/Xiaobin_Wang-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xiaobin-wang)
 - [![](https://img.shields.io/badge/Yulin_Chen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yulin-chen)
@@ -445,24 +438,6 @@ Carbonell, Jaime* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learnin
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/shin21a.html) [**Large-Scale Meta-Learning with Continual Trajectory Shifting**](http://proceedings.mlr.press/v139/shin21a.html) , <br> by *Shin, Jaewoong, Lee, Hae Beom, Gong, Boqing and Hwang, Sung Ju* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L175-L182)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-shin21a```
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/park20b.html) [**Meta Variance Transfer: Learning to Augment from the Others**](http://proceedings.mlr.press/v119/park20b.html) , <br> by *Park, Seong-Jin, Han, Seungju, Baek, Ji-Won, Kim, Insoo, Song, Juhwan, Lee, Hae Beom, Han, Jae-Joon and Hwang, Sung Ju* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L715-L722)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v119-park20b```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=rkeZIJBYvr) [**Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks**](https://openreview.net/forum?id=rkeZIJBYvr) , <br> by *Hae Beom Lee, Hayeon Lee, Donghyun Na, Saehoon Kim, Minseop Park, Eunho Yang and Sung Ju Hwang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L941-L947)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```Lee2020Learning```
-## Hang Gao
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-- [![](https://img.shields.io/badge/NeurIPS-2018-green)](https://proceedings.neurips.cc/paper/2018/hash/81448138f5f163ccdba4acc69819f280-Abstract.html) [**Low-shot Learning via Covariance-Preserving Adversarial Augmentation
-Networks**](https://proceedings.neurips.cc/paper/2018/hash/81448138f5f163ccdba4acc69819f280-Abstract.html) , <br> by *Hang Gao and
-Zheng Shou and
-Alireza Zareian and
-Hanwang Zhang and
-Shih{-}Fu Chang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1527-L1539)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```GaoSZZC18```
 ## Danqi Chen
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.295) [**Making Pre-trained Language Models Better Few-shot Learners**](https://aclanthology.org/2021.acl-long.295) , <br> by *Gao, Tianyu  and
@@ -473,7 +448,7 @@ Friedman, Dan  and
 Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1641-L1650)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhong-etal-2021-factual```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2369-L2378)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
 ## Adam Fisch
 
@@ -483,7 +458,7 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blo
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/fisch21a.html) [**Few-Shot Conformal Prediction with Auxiliary Tasks**](http://proceedings.mlr.press/v139/fisch21a.html) , <br> by *Fisch, Adam, Schuster, Tal, Jaakkola, Tommi and Barzilay, Dr.Regina* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L246-L253)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-fisch21a```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2369-L2378)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
 ## Tianyu Gao
 
@@ -493,7 +468,7 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blo
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/qu20a.html) [**Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs**](http://proceedings.mlr.press/v119/qu20a.html) , <br> by *Qu, Meng, Gao, Tianyu, Xhonneux, Louis-Pascal and Tang, Jian* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L725-L732)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v119-qu20a```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2369-L2378)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
 ## Zhiyuan Liu
 
@@ -517,7 +492,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Xu Han
 
@@ -541,7 +516,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Ning Ding
 
@@ -565,7 +540,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Hinrich Sch{\"u}tze
 
@@ -606,7 +581,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Luheng He
 
@@ -647,7 +622,7 @@ Shiyao Cui and
 Bowen Yu and
 Tingwen Liu and
 Yubin Wang and
-Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2381-L2394)<br> ```ACL 2021
+Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2372-L2385)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-02353```
 ## Percy Liang
 
@@ -970,7 +945,7 @@ Shi Feng and
 Dan Klein and
 Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2270)<br> ```ICML 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2102-09690```
-## Zhong Su
+## Hang Gao
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
 Zhao, Shiwan  and
@@ -980,80 +955,12 @@ Gao, Hang  and
 Gao, Tiegang  and
 Cheng, Renhong  and
 Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Renhong Cheng
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Tiegang Gao
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Chao Xue
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Honglei Guo
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Shiwan Zhao
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
-## Mengting Hu
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
-Zhao, Shiwan  and
-Guo, Honglei  and
-Xue, Chao  and
-Gao, Hang  and
-Gao, Tiegang  and
-Cheng, Renhong  and
-Su, Zhong* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L108-L122)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu-etal-2021-multi-label```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.14174) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://arxiv.org/abs/2105.14174) , <br> by *Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2328-L2335)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hu2021multilabel```
+- [![](https://img.shields.io/badge/NeurIPS-2018-green)](https://proceedings.neurips.cc/paper/2018/hash/81448138f5f163ccdba4acc69819f280-Abstract.html) [**Low-shot Learning via Covariance-Preserving Adversarial Augmentation
+Networks**](https://proceedings.neurips.cc/paper/2018/hash/81448138f5f163ccdba4acc69819f280-Abstract.html) , <br> by *Hang Gao and
+Zheng Shou and
+Alireza Zareian and
+Hanwang Zhang and
+Shih{-}Fu Chang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1527-L1539)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```GaoSZZC18```
 ## Pengjun Xie
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
@@ -1071,7 +978,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Xiaobin Wang
 
@@ -1090,7 +997,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Yulin Chen
 
@@ -1109,7 +1016,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Guangwei Xu
 
@@ -1128,7 +1035,7 @@ Xiaobin Wang and
 Xu Han and
 Pengjun Xie and
 Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2338-L2352)<br> ```ACL 2021 preprint
+Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Omer Levy
 
@@ -1141,7 +1048,7 @@ Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2355-L2366)<br> ```ACL 2021
+Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
 ## Amir Globerson
 
@@ -1154,7 +1061,7 @@ Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2355-L2366)<br> ```ACL 2021
+Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
 ## Jonathan Berant
 
@@ -1167,7 +1074,7 @@ Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2355-L2366)<br> ```ACL 2021
+Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
 ## Yuval Kirstain
 
@@ -1180,7 +1087,7 @@ Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2355-L2366)<br> ```ACL 2021
+Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
 ## Ori Ram
 
@@ -1193,7 +1100,7 @@ Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob
 Yuval Kirstain and
 Jonathan Berant and
 Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2355-L2366)<br> ```ACL 2021
+Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
 ## Anna Korhonen
 
@@ -1210,7 +1117,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Roi Reichart
 
@@ -1227,7 +1134,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Ehsan Shareghi
 
@@ -1244,7 +1151,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Yi Zhu
 
@@ -1261,7 +1168,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Mengjie Zhao
 
@@ -1278,5 +1185,5 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2397-L2410)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
