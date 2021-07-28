@@ -19,7 +19,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Richard_Socher-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#richard-socher)
 - [![](https://img.shields.io/badge/Huaxiu_Yao-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#huaxiu-yao)
 - [![](https://img.shields.io/badge/Eleni_Triantafillou-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eleni-triantafillou)
-- [![](https://img.shields.io/badge/Dan_Klein-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#dan-klein)
 - [![](https://img.shields.io/badge/Congying_Xia-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#congying-xia)
 - [![](https://img.shields.io/badge/Carlo_Ciliberto-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#carlo-ciliberto)
 - [![](https://img.shields.io/badge/Richard_S._Zemel-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#richard-s.-zemel)
@@ -32,16 +31,12 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Tom_Goldstein-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tom-goldstein)
 - [![](https://img.shields.io/badge/Micah_Goldblum-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#micah-goldblum)
 - [![](https://img.shields.io/badge/Richard_Zemel-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#richard-zemel)
-- [![](https://img.shields.io/badge/Sameer_Singh-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#sameer-singh)
-- [![](https://img.shields.io/badge/Eric_Wallace-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eric-wallace)
+- [![](https://img.shields.io/badge/Dan_Klein-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#dan-klein)
 - [![](https://img.shields.io/badge/Graham_Neubig-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#graham-neubig)
 - [![](https://img.shields.io/badge/Hae_Beom_Lee-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hae-beom-lee)
 - [![](https://img.shields.io/badge/Danqi_Chen-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#danqi-chen)
 - [![](https://img.shields.io/badge/Adam_Fisch-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#adam-fisch)
 - [![](https://img.shields.io/badge/Tianyu_Gao-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tianyu-gao)
-- [![](https://img.shields.io/badge/Zhiyuan_Liu-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
-- [![](https://img.shields.io/badge/Xu_Han-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
-- [![](https://img.shields.io/badge/Ning_Ding-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ning-ding)
 - [![](https://img.shields.io/badge/Hinrich_Sch{\"u}tze-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hinrich-sch{\"u}tze)
 - [![](https://img.shields.io/badge/Ivan_Vuli{\'c}-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ivan-vuli{\'c})
 - [![](https://img.shields.io/badge/Hinrich_Sch{\"{u}}tze-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hinrich-sch{\"{u}}tze)
@@ -96,17 +91,12 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Renkun_Ni-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#renkun-ni)
 - [![](https://img.shields.io/badge/Tuo_Zhao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tuo-zhao)
 - [![](https://img.shields.io/badge/Vincent_Dumoulin-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#vincent-dumoulin)
-- [![](https://img.shields.io/badge/Shi_Feng-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#shi-feng)
+- [![](https://img.shields.io/badge/Sameer_Singh-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#sameer-singh)
+- [![](https://img.shields.io/badge/Eric_Wallace-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eric-wallace)
 - [![](https://img.shields.io/badge/Hang_Gao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hang-gao)
-- [![](https://img.shields.io/badge/Pengjun_Xie-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#pengjun-xie)
-- [![](https://img.shields.io/badge/Xiaobin_Wang-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xiaobin-wang)
-- [![](https://img.shields.io/badge/Yulin_Chen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yulin-chen)
-- [![](https://img.shields.io/badge/Guangwei_Xu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#guangwei-xu)
-- [![](https://img.shields.io/badge/Omer_Levy-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#omer-levy)
-- [![](https://img.shields.io/badge/Amir_Globerson-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#amir-globerson)
-- [![](https://img.shields.io/badge/Jonathan_Berant-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#jonathan-berant)
-- [![](https://img.shields.io/badge/Yuval_Kirstain-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yuval-kirstain)
-- [![](https://img.shields.io/badge/Ori_Ram-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ori-ram)
+- [![](https://img.shields.io/badge/Zhiyuan_Liu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
+- [![](https://img.shields.io/badge/Xu_Han-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
+- [![](https://img.shields.io/badge/Ning_Ding-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ning-ding)
 - [![](https://img.shields.io/badge/Anna_Korhonen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#anna-korhonen)
 - [![](https://img.shields.io/badge/Roi_Reichart-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#roi-reichart)
 - [![](https://img.shields.io/badge/Ehsan_Shareghi-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ehsan-shareghi)
@@ -157,7 +147,7 @@ Yu, Philip  and
 Socher, Richard* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1960-L1970)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```xia-etal-2020-composed```
 ## Chelsea Finn
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.02695) [**Meta-Learning with Fewer Tasks through Task Interpolation**](https://arxiv.org/abs/2106.02695) , <br> by *Huaxiu Yao, Linjun Zhang and Chelsea Finn* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2297-L2304)<br> ```NeurIPS under-review
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.02695) [**Meta-Learning with Fewer Tasks through Task Interpolation**](https://arxiv.org/abs/2106.02695) , <br> by *Huaxiu Yao, Linjun Zhang and Chelsea Finn* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2283-L2290)<br> ```NeurIPS under-review
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```yao2021metalearning```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=BklEFpEYwS) [**Meta-Learning without Memorization**](https://openreview.net/forum?id=BklEFpEYwS) , <br> by *Mingzhang Yin, George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L923-L929)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```Yin2020Meta-Learning```
 - [![](https://img.shields.io/badge/NeurIPS-2020-green)](https://proceedings.neurips.cc/paper/2020/hash/cc3f5463bc4d26bc38eadc8bcffbc654-Abstract.html) [**Continuous Meta-Learning without Tasks**](https://proceedings.neurips.cc/paper/2020/hash/cc3f5463bc4d26bc38eadc8bcffbc654-Abstract.html) , <br> by *James Harrison and
@@ -247,7 +237,7 @@ Yu, Philip  and
 Socher, Richard* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1960-L1970)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```xia-etal-2020-composed```
 ## Huaxiu Yao
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.02695) [**Meta-Learning with Fewer Tasks through Task Interpolation**](https://arxiv.org/abs/2106.02695) , <br> by *Huaxiu Yao, Linjun Zhang and Chelsea Finn* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2297-L2304)<br> ```NeurIPS under-review
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.02695) [**Meta-Learning with Fewer Tasks through Task Interpolation**](https://arxiv.org/abs/2106.02695) , <br> by *Huaxiu Yao, Linjun Zhang and Chelsea Finn* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2283-L2290)<br> ```NeurIPS under-review
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```yao2021metalearning```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=rklp93EtwH) [**Automated Relational Meta-learning**](https://openreview.net/forum?id=rklp93EtwH) , <br> by *Huaxiu Yao, Xian Wu, Zhiqiang Tao, Yaliang Li, Bolin Ding, Ruirui Li and Zhenhui Li* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L874-L880)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```Yao2020Automated```
 - [![](https://img.shields.io/badge/NeurIPS-2020-green)](https://proceedings.neurips.cc/paper/2020/hash/4b86ca48d90bd5f0978afa3a012503a4-Abstract.html) [**Online Structured Meta-learning**](https://proceedings.neurips.cc/paper/2020/hash/4b86ca48d90bd5f0978afa3a012503a4-Abstract.html) , <br> by *Huaxiu Yao and
@@ -267,29 +257,6 @@ http://proceedings.mlr.press/v97/yao19b.html) , <br> by *Yao, Huaxiu, Wei, Ying,
 - [![](https://img.shields.io/badge/NeurIPS-2017-green)](https://proceedings.neurips.cc/paper/2017/hash/01e9565cecc4e989123f9620c1d09c09-Abstract.html) [**Few-Shot Learning Through an Information Retrieval Lens**](https://proceedings.neurips.cc/paper/2017/hash/01e9565cecc4e989123f9620c1d09c09-Abstract.html) , <br> by *Eleni Triantafillou and
 Richard S. Zemel and
 Raquel Urtasun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1541-L1550)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```TriantafillouZU17```
-## Dan Klein
-
-- [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhao21c.html) [**Calibrate Before Use: Improving Few-shot Performance of Language Models**](http://proceedings.mlr.press/v139/zhao21c.html) , <br> by *Zhao, Zihao, Wallace, Eric, Feng, Shi, Klein, Dan and Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L196-L203)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhao21c```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2104.08768) [**Constrained Language Models Yield Few-Shot Semantic Parsers**](https://arxiv.org/abs/2104.08768) , <br> by *Richard Shin and
-Christopher H. Lin and
-Sam Thomson and
-Charles Chen and
-Subhro Roy and
-Emmanouil Antonios Platanios and
-Adam Pauls and
-Dan Klein and
-Jason Eisner and
-Benjamin Van Durme* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2232-L2248)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2104-08768```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2102.09690) [**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) , <br> by *Tony Z. Zhao and
-Eric Wallace and
-Shi Feng and
-Dan Klein and
-Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2270)<br> ```ICML 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2102-09690```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2104.04670) [**Meta-tuning Language Models to Answer Prompts Better**](https://arxiv.org/abs/2104.04670) , <br> by *Ruiqi Zhong and
-Kristy Lee and
-Zheng Zhang and
-Dan Klein* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2273-L2283)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2104-04670```
 ## Congying Xia
 
 - [![](https://img.shields.io/badge/SIGIR-2021-green)](https://doi.org/10.1145/3404835.3462995) [**Pseudo Siamese Network for Few-Shot Intent Generation**](https://doi.org/10.1145/3404835.3462995) , <br> by *Xia, Congying, Xiong, Caiming and Yu, Philip* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L20-L27)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```3404835.3462995```
@@ -394,34 +361,23 @@ Tom Goldstein* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/b
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/triantafillou21a.html) [**Learning a Universal Template for Few-shot Dataset Generalization**](http://proceedings.mlr.press/v139/triantafillou21a.html) , <br> by *Triantafillou, Eleni, Larochelle, Hugo, Zemel, Richard and Dumoulin, Vincent* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L216-L223)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-triantafillou21a```
 - [![](https://img.shields.io/badge/ICLR-2021-green)](https://openreview.net/forum?id=oZIvHV04XgC) [**Wandering within a world: Online contextualized few-shot learning**](https://openreview.net/forum?id=oZIvHV04XgC) , <br> by *Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer and Richard Zemel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L560-L566)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ren2021wandering```
 - [![](https://img.shields.io/badge/ICLR-2021-green)](https://openreview.net/forum?id=SZ3wtsXfzQR) [**Theoretical bounds on estimation error for meta-learning**](https://openreview.net/forum?id=SZ3wtsXfzQR) , <br> by *James Lucas, Mengye Ren, Irene Raissa KAMENI KAMENI, Toniann Pitassi and Richard Zemel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L668-L674)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```lucas2021theoretical```
-## Sameer Singh
+## Dan Klein
 
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhao21c.html) [**Calibrate Before Use: Improving Few-shot Performance of Language Models**](http://proceedings.mlr.press/v139/zhao21c.html) , <br> by *Zhao, Zihao, Wallace, Eric, Feng, Shi, Klein, Dan and Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L196-L203)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhao21c```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2102.09690) [**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) , <br> by *Tony Z. Zhao and
-Eric Wallace and
-Shi Feng and
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2104.08768) [**Constrained Language Models Yield Few-Shot Semantic Parsers**](https://arxiv.org/abs/2104.08768) , <br> by *Richard Shin and
+Christopher H. Lin and
+Sam Thomson and
+Charles Chen and
+Subhro Roy and
+Emmanouil Antonios Platanios and
+Adam Pauls and
 Dan Klein and
-Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2270)<br> ```ICML 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2102-09690```
-- [![](https://img.shields.io/badge/EMNLP-2020-green)](https://www.aclweb.org/anthology/2020.emnlp-main.346) [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , <br> by *Shin, Taylor  and
-Razeghi, Yasaman  and
-Logan IV, Robert L.  and
-Wallace, Eric  and
-Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1675-L1686)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```shin-etal-2020-autoprompt```
-## Eric Wallace
-
-- [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhao21c.html) [**Calibrate Before Use: Improving Few-shot Performance of Language Models**](http://proceedings.mlr.press/v139/zhao21c.html) , <br> by *Zhao, Zihao, Wallace, Eric, Feng, Shi, Klein, Dan and Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L196-L203)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhao21c```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2102.09690) [**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) , <br> by *Tony Z. Zhao and
-Eric Wallace and
-Shi Feng and
-Dan Klein and
-Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2270)<br> ```ICML 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2102-09690```
-- [![](https://img.shields.io/badge/EMNLP-2020-green)](https://www.aclweb.org/anthology/2020.emnlp-main.346) [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , <br> by *Shin, Taylor  and
-Razeghi, Yasaman  and
-Logan IV, Robert L.  and
-Wallace, Eric  and
-Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1675-L1686)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```shin-etal-2020-autoprompt```
+Jason Eisner and
+Benjamin Van Durme* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2232-L2248)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2104-08768```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2104.04670) [**Meta-tuning Language Models to Answer Prompts Better**](https://arxiv.org/abs/2104.04670) , <br> by *Ruiqi Zhong and
+Kristy Lee and
+Zheng Zhang and
+Dan Klein* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2269)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2104-04670```
 ## Graham Neubig
 
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhu21d.html) [**Few-shot Language Coordination by Modeling Theory of Mind**](http://proceedings.mlr.press/v139/zhu21d.html) , <br> by *Zhu, Hao, Neubig, Graham and Bisk, Yonatan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L185-L192)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhu21d```
@@ -448,7 +404,7 @@ Friedman, Dan  and
 Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1641-L1650)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhong-etal-2021-factual```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2305-L2314)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
 ## Adam Fisch
 
@@ -458,7 +414,7 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blo
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/fisch21a.html) [**Few-Shot Conformal Prediction with Auxiliary Tasks**](http://proceedings.mlr.press/v139/fisch21a.html) , <br> by *Fisch, Adam, Schuster, Tal, Jaakkola, Tommi and Barzilay, Dr.Regina* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L246-L253)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-fisch21a```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2305-L2314)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
 ## Tianyu Gao
 
@@ -468,80 +424,8 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blo
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/qu20a.html) [**Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs**](http://proceedings.mlr.press/v119/qu20a.html) , <br> by *Qu, Meng, Gao, Tianyu, Xhonneux, Louis-Pascal and Tang, Jian* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L725-L732)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v119-qu20a```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15723) [**Making Pre-trained Language Models Better Few-shot Learners**](https://arxiv.org/abs/2012.15723) , <br> by *Tianyu Gao and
 Adam Fisch and
-Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2360-L2369)<br> ```ACL 2021
+Danqi Chen* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2305-L2314)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15723```
-## Zhiyuan Liu
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
-Weilin Zhao and
-Ning Ding and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Xu Han
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
-Weilin Zhao and
-Ning Ding and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Ning Ding
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
-Weilin Zhao and
-Ning Ding and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
 ## Hinrich Sch{\"u}tze
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447) [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
@@ -581,7 +465,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Luheng He
 
@@ -622,7 +506,7 @@ Shiyao Cui and
 Bowen Yu and
 Tingwen Liu and
 Yubin Wang and
-Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2372-L2385)<br> ```ACL 2021
+Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2317-L2330)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-02353```
 ## Percy Liang
 
@@ -633,7 +517,7 @@ Liang, Percy  and
 Goodman, Noah* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1742-L1751)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```mu-etal-2020-shaping```
 ## Ting Liu
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2308-L2315)<br> ```ACL Findings 2021 preprint
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2294-L2301)<br> ```ACL Findings 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou2021learning```
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://www.aclweb.org/anthology/2020.acl-main.128) [**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network**](https://www.aclweb.org/anthology/2020.acl-main.128) , <br> by *Hou, Yutai  and
 Che, Wanxiang  and
@@ -644,7 +528,7 @@ Liu, Han  and
 Liu, Ting* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1727-L1740)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou-etal-2020-shot```
 ## Yongkui Lai
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2308-L2315)<br> ```ACL Findings 2021 preprint
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2294-L2301)<br> ```ACL Findings 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou2021learning```
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://www.aclweb.org/anthology/2020.acl-main.128) [**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network**](https://www.aclweb.org/anthology/2020.acl-main.128) , <br> by *Hou, Yutai  and
 Che, Wanxiang  and
@@ -655,7 +539,7 @@ Liu, Han  and
 Liu, Ting* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1727-L1740)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou-etal-2020-shot```
 ## Wanxiang Che
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2308-L2315)<br> ```ACL Findings 2021 preprint
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2294-L2301)<br> ```ACL Findings 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou2021learning```
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://www.aclweb.org/anthology/2020.acl-main.128) [**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network**](https://www.aclweb.org/anthology/2020.acl-main.128) , <br> by *Hou, Yutai  and
 Che, Wanxiang  and
@@ -666,7 +550,7 @@ Liu, Han  and
 Liu, Ting* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1727-L1740)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou-etal-2020-shot```
 ## Yutai Hou
 
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2308-L2315)<br> ```ACL Findings 2021 preprint
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2294-L2301)<br> ```ACL Findings 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou2021learning```
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://www.aclweb.org/anthology/2020.acl-main.128) [**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network**](https://www.aclweb.org/anthology/2020.acl-main.128) , <br> by *Hou, Yutai  and
 Che, Wanxiang  and
@@ -936,15 +820,22 @@ Hongyuan Zha* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/bl
 
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/triantafillou21a.html) [**Learning a Universal Template for Few-shot Dataset Generalization**](http://proceedings.mlr.press/v139/triantafillou21a.html) , <br> by *Triantafillou, Eleni, Larochelle, Hugo, Zemel, Richard and Dumoulin, Vincent* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L216-L223)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-triantafillou21a```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=rkgAGAVKPr) [**Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples**](https://openreview.net/forum?id=rkgAGAVKPr) , <br> by *Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol and Hugo Larochelle* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L893-L899)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```Triantafillou2020Meta-Dataset```
-## Shi Feng
+## Sameer Singh
 
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhao21c.html) [**Calibrate Before Use: Improving Few-shot Performance of Language Models**](http://proceedings.mlr.press/v139/zhao21c.html) , <br> by *Zhao, Zihao, Wallace, Eric, Feng, Shi, Klein, Dan and Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L196-L203)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhao21c```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2102.09690) [**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) , <br> by *Tony Z. Zhao and
-Eric Wallace and
-Shi Feng and
-Dan Klein and
-Sameer Singh* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2259-L2270)<br> ```ICML 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2102-09690```
+- [![](https://img.shields.io/badge/EMNLP-2020-green)](https://www.aclweb.org/anthology/2020.emnlp-main.346) [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , <br> by *Shin, Taylor  and
+Razeghi, Yasaman  and
+Logan IV, Robert L.  and
+Wallace, Eric  and
+Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1675-L1686)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```shin-etal-2020-autoprompt```
+## Eric Wallace
+
+- [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/zhao21c.html) [**Calibrate Before Use: Improving Few-shot Performance of Language Models**](http://proceedings.mlr.press/v139/zhao21c.html) , <br> by *Zhao, Zihao, Wallace, Eric, Feng, Shi, Klein, Dan and Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L196-L203)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```pmlr-v139-zhao21c```
+- [![](https://img.shields.io/badge/EMNLP-2020-green)](https://www.aclweb.org/anthology/2020.emnlp-main.346) [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**](https://www.aclweb.org/anthology/2020.emnlp-main.346) , <br> by *Shin, Taylor  and
+Razeghi, Yasaman  and
+Logan IV, Robert L.  and
+Wallace, Eric  and
+Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1675-L1686)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```shin-etal-2020-autoprompt```
 ## Hang Gao
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495) [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
@@ -961,7 +852,7 @@ Zheng Shou and
 Alireza Zareian and
 Hanwang Zhang and
 Shih{-}Fu Chang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1527-L1539)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```GaoSZZC18```
-## Pengjun Xie
+## Zhiyuan Liu
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
 Xu, Guangwei  and
@@ -971,16 +862,12 @@ Han, Xu  and
 Xie, Pengjun  and
 Zheng, Haitao  and
 Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Xiaobin Wang
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
+Weilin Zhao and
+Ning Ding and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
+## Xu Han
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
 Xu, Guangwei  and
@@ -990,16 +877,12 @@ Han, Xu  and
 Xie, Pengjun  and
 Zheng, Haitao  and
 Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Yulin Chen
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
+Weilin Zhao and
+Ning Ding and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
+## Ning Ding
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
 Xu, Guangwei  and
@@ -1009,99 +892,11 @@ Han, Xu  and
 Xie, Pengjun  and
 Zheng, Haitao  and
 Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Guangwei Xu
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248) [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L57-L71)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.07464) [**Few-NERD: A Few-Shot Named Entity Recognition Dataset**](https://arxiv.org/abs/2105.07464) , <br> by *Ning Ding and
-Guangwei Xu and
-Yulin Chen and
-Xiaobin Wang and
-Xu Han and
-Pengjun Xie and
-Hai{-}Tao Zheng and
-Zhiyuan Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2329-L2343)<br> ```ACL 2021 preprint
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-07464```
-## Omer Levy
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.239) [**Few-Shot Question Answering by Pretraining Span Selection**](https://aclanthology.org/2021.acl-long.239) , <br> by *Ram, Ori  and
-Kirstain, Yuval  and
-Berant, Jonathan  and
-Globerson, Amir  and
-Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L44-L55)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ram-etal-2021-shot```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2101.00438) [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , <br> by *Ori Ram and
-Yuval Kirstain and
-Jonathan Berant and
-Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
-## Amir Globerson
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.239) [**Few-Shot Question Answering by Pretraining Span Selection**](https://aclanthology.org/2021.acl-long.239) , <br> by *Ram, Ori  and
-Kirstain, Yuval  and
-Berant, Jonathan  and
-Globerson, Amir  and
-Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L44-L55)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ram-etal-2021-shot```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2101.00438) [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , <br> by *Ori Ram and
-Yuval Kirstain and
-Jonathan Berant and
-Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
-## Jonathan Berant
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.239) [**Few-Shot Question Answering by Pretraining Span Selection**](https://aclanthology.org/2021.acl-long.239) , <br> by *Ram, Ori  and
-Kirstain, Yuval  and
-Berant, Jonathan  and
-Globerson, Amir  and
-Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L44-L55)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ram-etal-2021-shot```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2101.00438) [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , <br> by *Ori Ram and
-Yuval Kirstain and
-Jonathan Berant and
-Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
-## Yuval Kirstain
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.239) [**Few-Shot Question Answering by Pretraining Span Selection**](https://aclanthology.org/2021.acl-long.239) , <br> by *Ram, Ori  and
-Kirstain, Yuval  and
-Berant, Jonathan  and
-Globerson, Amir  and
-Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L44-L55)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ram-etal-2021-shot```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2101.00438) [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , <br> by *Ori Ram and
-Yuval Kirstain and
-Jonathan Berant and
-Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
-## Ori Ram
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.239) [**Few-Shot Question Answering by Pretraining Span Selection**](https://aclanthology.org/2021.acl-long.239) , <br> by *Ram, Ori  and
-Kirstain, Yuval  and
-Berant, Jonathan  and
-Globerson, Amir  and
-Levy, Omer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L44-L55)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ram-etal-2021-shot```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2101.00438) [**Few-Shot Question Answering by Pretraining Span Selection**](https://arxiv.org/abs/2101.00438) , <br> by *Ori Ram and
-Yuval Kirstain and
-Jonathan Berant and
-Amir Globerson and
-Omer Levy* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2346-L2357)<br> ```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2101-00438```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259) [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
+Weilin Zhao and
+Ning Ding and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2136-L2147)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-11259```
 ## Anna Korhonen
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447) [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
@@ -1117,7 +912,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Roi Reichart
 
@@ -1134,7 +929,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Ehsan Shareghi
 
@@ -1151,7 +946,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Yi Zhu
 
@@ -1168,7 +963,7 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
 ## Mengjie Zhao
 
@@ -1185,5 +980,5 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2388-L2401)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2333-L2346)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
