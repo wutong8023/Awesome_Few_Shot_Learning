@@ -20,7 +20,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/SIGIR-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./README.md#sigir)
 - [![](https://img.shields.io/badge/CVPR-18-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./README.md#cvpr)
 - [![](https://img.shields.io/badge/TACL-1-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./README.md#tacl)
-- [![](https://img.shields.io/badge/arXiv-21-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-22-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/./)
@@ -643,6 +643,7 @@ Dan Klein* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```yao2021metalearning```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07343) [**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**](https://arxiv.org/abs/2106.07343) , <br> by *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2282-L2289)<br> ```ACL Findings 2021 preprint
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```hou2021learning```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2107.13586) [**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://arxiv.org/abs/2107.13586) , <br> by *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi and Graham Neubig* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2324-L2332)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```liu2021pretrain```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.11926) [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) , <br> by *Timo Schick and
 Hinrich Sch{\"{u\textsl{}}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2113-L2121)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-11926```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.02353) [**Few-Shot Event Detection with Prototypical Amortized Conditional Random
@@ -651,7 +652,7 @@ Shiyao Cui and
 Bowen Yu and
 Tingwen Liu and
 Yubin Wang and
-Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2293-L2306)<br> ```ACL 2021
+Bin Wang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2292-L2305)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-02353```
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15682) [**A Closer Look at Few-Shot Crosslingual Transfer: Variance, Benchmarks
 and Baselines**](https://arxiv.org/abs/2012.15682) , <br> by *Mengjie Zhao and
@@ -659,5 +660,5 @@ Yi Zhu and
 Ehsan Shareghi and
 Roi Reichart and
 Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2309-L2322)<br> ```ACL 2021
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2308-L2321)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15682```
