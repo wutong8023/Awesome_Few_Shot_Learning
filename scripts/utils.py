@@ -105,7 +105,7 @@ def get_md_entry(DB, entry, add_comments=True):
 
     img_link = os.path.join(base_link, "scripts/svg/google.png")
     gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
-    md_str += f'<a href="{gs_link}"><img src={img_link} height="20"></a><br>'
+    md_str += f'<a href="{gs_link}"><img src={img_link} height="18" align="bottom"></a><br>'
     
     if add_comments:
         # maybe there is a comment to write
@@ -117,7 +117,7 @@ def get_md_entry(DB, entry, add_comments=True):
     md_str += "</details>"
 
     img_link = os.path.join(base_link, "scripts/svg/copy_icon.png")
-    md_str += f'<details><summary><img src={img_link} height="20"></summary>'
+    md_str += f'<details><summary><img src={img_link} height="20" align="bottom"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
     
     # md_str += '<br>\n'
