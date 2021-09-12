@@ -10,10 +10,10 @@ This page categorizes the literature by the **Author**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Zhiyuan_Liu-7-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
+- [![](https://img.shields.io/badge/Zhiyuan_Liu-8-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
+- [![](https://img.shields.io/badge/Xu_Han-7-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
 - [![](https://img.shields.io/badge/Caiming_Xiong-6-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#caiming-xiong)
 - [![](https://img.shields.io/badge/Maosong_Sun-6-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#maosong-sun)
-- [![](https://img.shields.io/badge/Xu_Han-6-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
 - [![](https://img.shields.io/badge/Chelsea_Finn-5-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#chelsea-finn)
 - [![](https://img.shields.io/badge/Hugo_Larochelle-5-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hugo-larochelle)
 - [![](https://img.shields.io/badge/Sung_Ju_Hwang-5-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#sung-ju-hwang)
@@ -165,6 +165,54 @@ Huadong Wang and
 Zhiyuan Liu and
 Juanzi Li and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2629-L2642) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04332)<a href="https://scholar.google.com.hk/scholar?q=PPT:+Pre-trained+Prompt+Tuning+for+Few-shot+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PPT: Pre-trained Prompt Tuning for Few-shot Learning**](https://arxiv.org/abs/2109.04332) , <br> by *Yuxian Gu, Xu Han, Zhiyuan Liu and Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2683-L2690) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gu2021ppt```
+- [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
+Xu Han and
+Ruobing Xie and
+Zhiyuan Liu and
+Fen Lin and
+Leyu Lin and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L218-L231) <br>```Neural Snowball
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoHX0LLS20```
+- [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1649)<a href="https://scholar.google.com.hk/scholar?q=FewRel+2.0:+Towards+More+Challenging+Few-Shot+Relation+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewRel 2.0: Towards More Challenging Few-Shot Relation Classification**](https://doi.org/10.18653/v1/D19-1649) , <br> by *Tianyu Gao and
+Xu Han and
+Hao Zhu and
+Zhiyuan Liu and
+Peng Li and
+Maosong Sun and
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L176-L189) <br>```Fewrel 2.0 dataset
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoHZLLSZ19```
+- [![](https://img.shields.io/badge/AAAI-2019-green)](https://doi.org/10.1609/aaai.v33i01.33016407)<a href="https://scholar.google.com.hk/scholar?q=Hybrid+Attention-Based+Prototypical+Networks+for+Noisy+Few-Shot+Relation+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation
+Classification**](https://doi.org/10.1609/aaai.v33i01.33016407) , <br> by *Tianyu Gao and
+Xu Han and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L204-L215) <br>```HATT
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoH0S19```
+- [![](https://img.shields.io/badge/EMNLP-2018-green)](https://doi.org/10.18653/v1/d18-1514)<a href="https://scholar.google.com.hk/scholar?q=FewRel:+A+Large-Scale+Supervised+Few-shot+Relation+Classification+Dataset+with+State-of-the-Art+Evaluation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewRel: A Large-Scale Supervised Few-shot Relation Classification
+Dataset with State-of-the-Art Evaluation**](https://doi.org/10.18653/v1/d18-1514) , <br> by *Xu Han and
+Hao Zhu and
+Pengfei Yu and
+Ziyun Wang and
+Yuan Yao and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L159-L173) <br>```FewRel dataset
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
+## Xu Han
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259)<a href="https://scholar.google.com.hk/scholar?q=PTR:+Prompt+Tuning+with+Rules+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
+Weilin Zhao and
+Ning Ding and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2377-L2388) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2105-11259```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04332)<a href="https://scholar.google.com.hk/scholar?q=PPT:+Pre-trained+Prompt+Tuning+for+Few-shot+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PPT: Pre-trained Prompt Tuning for Few-shot Learning**](https://arxiv.org/abs/2109.04332) , <br> by *Yuxian Gu, Xu Han, Zhiyuan Liu and Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2683-L2690) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gu2021ppt```
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
 Xu Han and
 Ruobing Xie and
@@ -237,52 +285,6 @@ Huadong Wang and
 Zhiyuan Liu and
 Juanzi Li and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2629-L2642) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
-- [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
-Xu Han and
-Ruobing Xie and
-Zhiyuan Liu and
-Fen Lin and
-Leyu Lin and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L218-L231) <br>```Neural Snowball
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoHX0LLS20```
-- [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1649)<a href="https://scholar.google.com.hk/scholar?q=FewRel+2.0:+Towards+More+Challenging+Few-Shot+Relation+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewRel 2.0: Towards More Challenging Few-Shot Relation Classification**](https://doi.org/10.18653/v1/D19-1649) , <br> by *Tianyu Gao and
-Xu Han and
-Hao Zhu and
-Zhiyuan Liu and
-Peng Li and
-Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L176-L189) <br>```Fewrel 2.0 dataset
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoHZLLSZ19```
-- [![](https://img.shields.io/badge/AAAI-2019-green)](https://doi.org/10.1609/aaai.v33i01.33016407)<a href="https://scholar.google.com.hk/scholar?q=Hybrid+Attention-Based+Prototypical+Networks+for+Noisy+Few-Shot+Relation+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation
-Classification**](https://doi.org/10.1609/aaai.v33i01.33016407) , <br> by *Tianyu Gao and
-Xu Han and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L204-L215) <br>```HATT
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoH0S19```
-- [![](https://img.shields.io/badge/EMNLP-2018-green)](https://doi.org/10.18653/v1/d18-1514)<a href="https://scholar.google.com.hk/scholar?q=FewRel:+A+Large-Scale+Supervised+Few-shot+Relation+Classification+Dataset+with+State-of-the-Art+Evaluation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewRel: A Large-Scale Supervised Few-shot Relation Classification
-Dataset with State-of-the-Art Evaluation**](https://doi.org/10.18653/v1/d18-1514) , <br> by *Xu Han and
-Hao Zhu and
-Pengfei Yu and
-Ziyun Wang and
-Yuan Yao and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L159-L173) <br>```FewRel dataset
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
-## Xu Han
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259)<a href="https://scholar.google.com.hk/scholar?q=PTR:+Prompt+Tuning+with+Rules+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
-Weilin Zhao and
-Ning Ding and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2377-L2388) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2105-11259```
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
 Xu Han and
 Ruobing Xie and
