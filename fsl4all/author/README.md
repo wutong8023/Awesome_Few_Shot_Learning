@@ -10,8 +10,8 @@ This page categorizes the literature by the **Author**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Zhiyuan_Liu-8-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
-- [![](https://img.shields.io/badge/Xu_Han-7-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
+- [![](https://img.shields.io/badge/Zhiyuan_Liu-9-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#zhiyuan-liu)
+- [![](https://img.shields.io/badge/Xu_Han-8-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#xu-han)
 - [![](https://img.shields.io/badge/Caiming_Xiong-6-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#caiming-xiong)
 - [![](https://img.shields.io/badge/Maosong_Sun-6-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#maosong-sun)
 - [![](https://img.shields.io/badge/Chelsea_Finn-5-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#chelsea-finn)
@@ -24,6 +24,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Huaxiu_Yao-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#huaxiu-yao)
 - [![](https://img.shields.io/badge/Eleni_Triantafillou-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eleni-triantafillou)
 - [![](https://img.shields.io/badge/Graham_Neubig-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#graham-neubig)
+- [![](https://img.shields.io/badge/Ning_Ding-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ning-ding)
 - [![](https://img.shields.io/badge/Congying_Xia-4-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#congying-xia)
 - [![](https://img.shields.io/badge/Carlo_Ciliberto-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#carlo-ciliberto)
 - [![](https://img.shields.io/badge/Richard_S._Zemel-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#richard-s.-zemel)
@@ -40,7 +41,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Dan_Klein-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#dan-klein)
 - [![](https://img.shields.io/badge/Eric_Wallace-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#eric-wallace)
 - [![](https://img.shields.io/badge/Hae_Beom_Lee-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hae-beom-lee)
-- [![](https://img.shields.io/badge/Ning_Ding-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ning-ding)
+- [![](https://img.shields.io/badge/Juanzi_Li-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#juanzi-li)
 - [![](https://img.shields.io/badge/Hinrich_Sch{\"u}tze-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hinrich-sch{\"u}tze)
 - [![](https://img.shields.io/badge/Ivan_Vuli{\'c}-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ivan-vuli{\'c})
 - [![](https://img.shields.io/badge/Yi_Yang-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yi-yang)
@@ -107,10 +108,12 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Renkun_Ni-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#renkun-ni)
 - [![](https://img.shields.io/badge/Tuo_Zhao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tuo-zhao)
 - [![](https://img.shields.io/badge/Vincent_Dumoulin-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#vincent-dumoulin)
-- [![](https://img.shields.io/badge/Juanzi_Li-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#juanzi-li)
 - [![](https://img.shields.io/badge/Hang_Gao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hang-gao)
 - [![](https://img.shields.io/badge/Danqi_Chen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#danqi-chen)
 - [![](https://img.shields.io/badge/Adam_Fisch-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#adam-fisch)
+- [![](https://img.shields.io/badge/Pengjun_Xie-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#pengjun-xie)
+- [![](https://img.shields.io/badge/Yulin_Chen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yulin-chen)
+- [![](https://img.shields.io/badge/Guangwei_Xu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#guangwei-xu)
 - [![](https://img.shields.io/badge/Anna_Korhonen-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#anna-korhonen)
 - [![](https://img.shields.io/badge/Roi_Reichart-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#roi-reichart)
 - [![](https://img.shields.io/badge/Ehsan_Shareghi-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ehsan-shareghi)
@@ -166,6 +169,15 @@ Zhiyuan Liu and
 Juanzi Li and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2630-L2643) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04332)<a href="https://scholar.google.com.hk/scholar?q=PPT:+Pre-trained+Prompt+Tuning+for+Few-shot+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PPT: Pre-trained Prompt Tuning for Few-shot Learning**](https://arxiv.org/abs/2109.04332) , <br> by *Yuxian Gu, Xu Han, Zhiyuan Liu and Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2684-L2691) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gu2021ppt```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
 Xu Han and
 Ruobing Xie and
@@ -213,6 +225,15 @@ Ning Ding and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2377-L2388) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2105-11259```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04332)<a href="https://scholar.google.com.hk/scholar?q=PPT:+Pre-trained+Prompt+Tuning+for+Few-shot+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PPT: Pre-trained Prompt Tuning for Few-shot Learning**](https://arxiv.org/abs/2109.04332) , <br> by *Yuxian Gu, Xu Han, Zhiyuan Liu and Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2684-L2691) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gu2021ppt```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6281)<a href="https://scholar.google.com.hk/scholar?q=Neural+Snowball+for+Few-Shot+Relation+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Snowball for Few-Shot Relation Learning**](https://aaai.org/ojs/index.php/AAAI/article/view/6281) , <br> by *Tianyu Gao and
 Xu Han and
 Ruobing Xie and
@@ -469,6 +490,37 @@ Graham Neubig* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/b
 Zhou, Shuyan  and
 Neubig, Graham  and
 Carbonell, Jaime* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2054-L2064) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```rijhwani-etal-2020-soft```
+## Ning Ding
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259)<a href="https://scholar.google.com.hk/scholar?q=PTR:+Prompt+Tuning+with+Rules+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
+Weilin Zhao and
+Ning Ding and
+Zhiyuan Liu and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2377-L2388) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2105-11259```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.02035)<a href="https://scholar.google.com.hk/scholar?q=Knowledgeable+Prompt-tuning:+Incorporating+Knowledge+into+Prompt+Verbalizer+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer
+for Text Classification**](https://arxiv.org/abs/2108.02035) , <br> by *Shengding Hu and
+Ning Ding and
+Huadong Wang and
+Zhiyuan Liu and
+Juanzi Li and
+Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2630-L2643) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## Congying Xia
 
 - [![](https://img.shields.io/badge/SIGIR-2021-green)](https://doi.org/10.1145/3404835.3462995)<a href="https://scholar.google.com.hk/scholar?q=Pseudo+Siamese+Network+for+Few-Shot+Intent+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Pseudo Siamese Network for Few-Shot Intent Generation**](https://doi.org/10.1145/3404835.3462995) , <br> by *Xia, Congying, Xiong, Caiming and Yu, Philip* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L272-L279) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```3404835.3462995```
@@ -613,21 +665,15 @@ Singh, Sameer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/b
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/shin21a.html)<a href="https://scholar.google.com.hk/scholar?q=Large-Scale+Meta-Learning+with+Continual+Trajectory+Shifting"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Large-Scale Meta-Learning with Continual Trajectory Shifting**](http://proceedings.mlr.press/v139/shin21a.html) , <br> by *Shin, Jaewoong, Lee, Hae Beom, Gong, Boqing and Hwang, Sung Ju* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L427-L434) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```pmlr-v139-shin21a```
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/park20b.html)<a href="https://scholar.google.com.hk/scholar?q=Meta+Variance+Transfer:+Learning+to+Augment+from+the+Others"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Meta Variance Transfer: Learning to Augment from the Others**](http://proceedings.mlr.press/v119/park20b.html) , <br> by *Park, Seong-Jin, Han, Seungju, Baek, Ji-Won, Kim, Insoo, Song, Juhwan, Lee, Hae Beom, Han, Jae-Joon and Hwang, Sung Ju* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L967-L974) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```pmlr-v119-park20b```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=rkeZIJBYvr)<a href="https://scholar.google.com.hk/scholar?q=Learning+to+Balance:+Bayesian+Meta-Learning+for+Imbalanced+and+Out-of-distribution+Tasks"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks**](https://openreview.net/forum?id=rkeZIJBYvr) , <br> by *Hae Beom Lee, Hayeon Lee, Donghyun Na, Saehoon Kim, Minseop Park, Eunho Yang and Sung Ju Hwang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1193-L1199) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```Lee2020Learning```
-## Ning Ding
+## Juanzi Li
 
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.11259)<a href="https://scholar.google.com.hk/scholar?q=PTR:+Prompt+Tuning+with+Rules+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/abs/2105.11259) , <br> by *Xu Han and
-Weilin Zhao and
-Ning Ding and
-Zhiyuan Liu and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2377-L2388) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2105-11259```
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.487)<a href="https://scholar.google.com.hk/scholar?q=Learning+from+Miscellaneous+Other-Class+Words+for+Few-shot+Named+Entity+Recognition"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition**](https://aclanthology.org/2021.acl-long.487) , <br> by *Tong, Meihan  and
+Wang, Shuai  and
+Xu, Bin  and
+Cao, Yixin  and
+Liu, Minghui  and
+Hou, Lei  and
+Li, Juanzi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L399-L412) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```tong-etal-2021-learning```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.02035)<a href="https://scholar.google.com.hk/scholar?q=Knowledgeable+Prompt-tuning:+Incorporating+Knowledge+into+Prompt+Verbalizer+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer
 for Text Classification**](https://arxiv.org/abs/2108.02035) , <br> by *Shengding Hu and
 Ning Ding and
@@ -635,6 +681,15 @@ Huadong Wang and
 Zhiyuan Liu and
 Juanzi Li and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2630-L2643) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## Hinrich Sch{\"u}tze
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+The+Choice+of+Shots+Matters"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
@@ -1195,22 +1250,6 @@ Hongyuan Zha* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/bl
 
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/triantafillou21a.html)<a href="https://scholar.google.com.hk/scholar?q=Learning+a+Universal+Template+for+Few-shot+Dataset+Generalization"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning a Universal Template for Few-shot Dataset Generalization**](http://proceedings.mlr.press/v139/triantafillou21a.html) , <br> by *Triantafillou, Eleni, Larochelle, Hugo, Zemel, Richard and Dumoulin, Vincent* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L468-L475) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```pmlr-v139-triantafillou21a```
 - [![](https://img.shields.io/badge/ICLR-2020-green)](https://openreview.net/forum?id=rkgAGAVKPr)<a href="https://scholar.google.com.hk/scholar?q=Meta-Dataset:+A+Dataset+of+Datasets+for+Learning+to+Learn+from+Few+Examples"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples**](https://openreview.net/forum?id=rkgAGAVKPr) , <br> by *Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol and Hugo Larochelle* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1145-L1151) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```Triantafillou2020Meta-Dataset```
-## Juanzi Li
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.487)<a href="https://scholar.google.com.hk/scholar?q=Learning+from+Miscellaneous+Other-Class+Words+for+Few-shot+Named+Entity+Recognition"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition**](https://aclanthology.org/2021.acl-long.487) , <br> by *Tong, Meihan  and
-Wang, Shuai  and
-Xu, Bin  and
-Cao, Yixin  and
-Liu, Minghui  and
-Hou, Lei  and
-Li, Juanzi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L399-L412) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```tong-etal-2021-learning```
-- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.02035)<a href="https://scholar.google.com.hk/scholar?q=Knowledgeable+Prompt-tuning:+Incorporating+Knowledge+into+Prompt+Verbalizer+for+Text+Classification"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer
-for Text Classification**](https://arxiv.org/abs/2108.02035) , <br> by *Shengding Hu and
-Ning Ding and
-Huadong Wang and
-Zhiyuan Liu and
-Juanzi Li and
-Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2630-L2643) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-02035```
 ## Hang Gao
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.495)<a href="https://scholar.google.com.hk/scholar?q=Multi-Label+Few-Shot+Learning+for+Aspect+Category+Detection"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Multi-Label Few-Shot Learning for Aspect Category Detection**](https://aclanthology.org/2021.acl-long.495) , <br> by *Hu, Mengting  and
@@ -1241,6 +1280,63 @@ Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blo
 Fisch, Adam  and
 Chen, Danqi* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L325-L334) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gao-etal-2021-making```
 - [![](https://img.shields.io/badge/ICML-2021-green)](http://proceedings.mlr.press/v139/fisch21a.html)<a href="https://scholar.google.com.hk/scholar?q=Few-Shot+Conformal+Prediction+with+Auxiliary+Tasks"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-Shot Conformal Prediction with Auxiliary Tasks**](http://proceedings.mlr.press/v139/fisch21a.html) , <br> by *Fisch, Adam, Schuster, Tal, Jaakkola, Tommi and Barzilay, Dr.Regina* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L498-L505) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```pmlr-v139-fisch21a```
+## Pengjun Xie
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+## Yulin Chen
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+## Guangwei Xu
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L309-L323) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## Anna Korhonen
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+The+Choice+of+Shots+Matters"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and

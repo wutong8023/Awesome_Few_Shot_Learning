@@ -10,7 +10,7 @@ This page categorizes the literature by the **Last Post**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#hyperlink)
-- [![](https://img.shields.io/badge/2021-114-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#2021)
+- [![](https://img.shields.io/badge/2021-115-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#2021)
 - [![](https://img.shields.io/badge/2020-81-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#2020)
 - [![](https://img.shields.io/badge/2019-23-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#2019)
 - [![](https://img.shields.io/badge/2018-13-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/time/README.md#2018)
@@ -307,6 +307,15 @@ Luke Zettlemoyer* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learnin
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.01247)<a href="https://scholar.google.com.hk/scholar?q=Do+Prompt-Based+Models+Really+Understand+the+Meaning+of+their+Prompts?"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Do Prompt-Based Models Really Understand the Meaning of their Prompts?**](https://arxiv.org/abs/2109.01247) , <br> by *Albert Webson and Ellie Pavlick* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2666-L2673) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```webson2021promptbased```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04144)<a href="https://scholar.google.com.hk/scholar?q=Avoiding+Inference+Heuristics+in+Few-shot+Prompt-based+Finetuning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning**](https://arxiv.org/abs/2109.04144) , <br> by *Prasetya Ajie Utama, Nafise Sadat Moosavi, Victor Sanh and Iryna Gurevych* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2675-L2682) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```utama2021avoiding```
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.04332)<a href="https://scholar.google.com.hk/scholar?q=PPT:+Pre-trained+Prompt+Tuning+for+Few-shot+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PPT: Pre-trained Prompt Tuning for Few-shot Learning**](https://arxiv.org/abs/2109.04332) , <br> by *Yuxian Gu, Xu Han, Zhiyuan Liu and Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2684-L2691) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```gu2021ppt```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2693-L2708) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## 2020
 
 - [![](https://img.shields.io/badge/CVPR-2020-green)](https://doi.org/10.1109/CVPR42600.2020.01259)<a href="https://scholar.google.com.hk/scholar?q=Boosting+Few-Shot+Learning+With+Adaptive+Margin+Loss"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Boosting Few-Shot Learning With Adaptive Margin Loss**](https://doi.org/10.1109/CVPR42600.2020.01259) , <br> by *Aoxue Li and
