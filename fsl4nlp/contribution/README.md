@@ -9,7 +9,7 @@ You can directly use our bibtex.bib in overleaf with this [link](https://www.ove
 This page categorizes the literature by the Contribution, filtered by NLP area.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-darkgreen)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4nlp/contribution/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4nlp/contribution/README.md#hyperlink)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/./)
