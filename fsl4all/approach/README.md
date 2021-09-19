@@ -6,7 +6,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-This page categorizes the literature by the **Continual Learning Approach**.
+This page categorizes the literature by the **Few-shot Learning Approach**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/approach/README.md#hyperlink)
