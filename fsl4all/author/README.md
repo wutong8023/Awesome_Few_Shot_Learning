@@ -45,6 +45,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Juanzi_Li-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#juanzi-li)
 - [![](https://img.shields.io/badge/Hinrich_Sch{\"u}tze-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hinrich-sch{\"u}tze)
 - [![](https://img.shields.io/badge/Ivan_Vuli{\'c}-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ivan-vuli{\'c})
+- [![](https://img.shields.io/badge/Mengjie_Zhao-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#mengjie-zhao)
 - [![](https://img.shields.io/badge/Subhabrata_Mukherjee-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#subhabrata-mukherjee)
 - [![](https://img.shields.io/badge/Yi_Yang-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yi-yang)
 - [![](https://img.shields.io/badge/Hao_Zhu-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hao-zhu)
@@ -52,12 +53,17 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Shumin_Deng-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#shumin-deng)
 - [![](https://img.shields.io/badge/Ningyu_Zhang-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ningyu-zhang)
 - [![](https://img.shields.io/badge/Oriol_Vinyals-3-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#oriol-vinyals)
+- [![](https://img.shields.io/badge/Mohit_Bansal-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#mohit-bansal)
+- [![](https://img.shields.io/badge/Colin_Raffel-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#colin-raffel)
+- [![](https://img.shields.io/badge/Derek_Tam-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#derek-tam)
 - [![](https://img.shields.io/badge/Sebastian_Riedel-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#sebastian-riedel)
 - [![](https://img.shields.io/badge/Hinrich_Sch{\"{u}}tze-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hinrich-sch{\"{u}}tze)
 - [![](https://img.shields.io/badge/Hannaneh_Hajishirzi-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#hannaneh-hajishirzi)
 - [![](https://img.shields.io/badge/Fei_Huang-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#fei-huang)
 - [![](https://img.shields.io/badge/Chuanqi_Tan-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#chuanqi-tan)
 - [![](https://img.shields.io/badge/Luheng_He-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#luheng-he)
+- [![](https://img.shields.io/badge/Michael_Zeng-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#michael-zeng)
+- [![](https://img.shields.io/badge/Chenguang_Zhu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#chenguang-zhu)
 - [![](https://img.shields.io/badge/Wenpeng_Yin-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#wenpeng-yin)
 - [![](https://img.shields.io/badge/Jianguo_Zhang-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#jianguo-zhang)
 - [![](https://img.shields.io/badge/Tingwen_Liu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#tingwen-liu)
@@ -120,7 +126,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Roi_Reichart-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#roi-reichart)
 - [![](https://img.shields.io/badge/Ehsan_Shareghi-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ehsan-shareghi)
 - [![](https://img.shields.io/badge/Yi_Zhu-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yi-zhu)
-- [![](https://img.shields.io/badge/Mengjie_Zhao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#mengjie-zhao)
 - [![](https://img.shields.io/badge/Ahmed_Hassan_Awadallah-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#ahmed-hassan-awadallah)
 - [![](https://img.shields.io/badge/Leyu_Lin-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#leyu-lin)
 - [![](https://img.shields.io/badge/Yuan_Yao-2-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/fsl4all/author/README.md#yuan-yao)
@@ -740,6 +745,25 @@ Farghly, Tyler  and
 Gerz, Daniela  and
 Vuli{\'c}, Ivan  and
 Henderson, Matthew* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L1940-L1951) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```coope-etal-2020-span```
+## Mengjie Zhao
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+The+Choice+of+Shots+Matters"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
+Zhu, Yi  and
+Shareghi, Ehsan  and
+Vuli{\'c}, Ivan  and
+Reichart, Roi  and
+Korhonen, Anna  and
+Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L281-L294) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhao-etal-2021-closer```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2109.03630)<a href="https://scholar.google.com.hk/scholar?q=Discrete+and+Soft+Prompting+for+Multilingual+Models"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Discrete and Soft Prompting for Multilingual Models**](https://arxiv.org/abs/2109.03630) , <br> by *Mengjie Zhao and Hinrich Schütze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2824-L2834) <br>```EMNLP 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhao2021discrete```
+- [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15682)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+Variance,+Benchmarks+and+Baselines"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: Variance, Benchmarks
+and Baselines**](https://arxiv.org/abs/2012.15682) , <br> by *Mengjie Zhao and
+Yi Zhu and
+Ehsan Shareghi and
+Roi Reichart and
+Anna Korhonen and
+Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2550-L2563) <br>```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2012-15682```
 ## Subhabrata Mukherjee
 
 - [![](https://img.shields.io/badge/KDD-2021-green)](https://doi.org/10.1145/3447548.3467235)<a href="https://scholar.google.com.hk/scholar?q=Meta+Self-Training+for+Few-Shot+Neural+Sequence+Labeling"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Meta Self-Training for Few-Shot Neural Sequence Labeling**](https://doi.org/10.1145/3447548.3467235) , <br> by *Wang, Yaqing, Mukherjee, Subhabrata, Chu, Haoda, Tu, Yuancheng, Wu, Ming, Gao, Jing and Awadallah, Ahmed Hassan* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L245-L252) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```3447548.3467235```
@@ -845,6 +869,33 @@ Tim Lillicrap and
 Koray Kavukcuoglu and
 Daan Wierstra* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L17-L28) <br>```MatchNet
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```VinyalsBLKW16```
+## Mohit Bansal
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07499)<a href="https://scholar.google.com.hk/scholar?q=An+Empirical+Survey+of+Data+Augmentation+for+Limited+Data+Learning+in+NLP"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**](https://arxiv.org/abs/2106.07499) , <br> by *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal and Diyi Yang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2492-L2499) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```chen2021empirical```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2103.11955)<a href="https://scholar.google.com.hk/scholar?q=Improving+and+Simplifying+Pattern+Exploiting+Training"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving and Simplifying Pattern Exploiting Training**](https://arxiv.org/abs/2103.11955) , <br> by *Derek Tam and
+Rakesh R. Menon and
+Mohit Bansal and
+Shashank Srivastava and
+Colin Raffel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2763-L2778) <br>```EMNLP 2021, proposing ADAPET which promisingly improves the data efficiency of PET. ADAPET does not leverage unlabelled data for training, and introduces label-conditioned loss for the denser supervision.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2103-11955```
+## Colin Raffel
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07499)<a href="https://scholar.google.com.hk/scholar?q=An+Empirical+Survey+of+Data+Augmentation+for+Limited+Data+Learning+in+NLP"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**](https://arxiv.org/abs/2106.07499) , <br> by *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal and Diyi Yang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2492-L2499) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```chen2021empirical```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2103.11955)<a href="https://scholar.google.com.hk/scholar?q=Improving+and+Simplifying+Pattern+Exploiting+Training"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving and Simplifying Pattern Exploiting Training**](https://arxiv.org/abs/2103.11955) , <br> by *Derek Tam and
+Rakesh R. Menon and
+Mohit Bansal and
+Shashank Srivastava and
+Colin Raffel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2763-L2778) <br>```EMNLP 2021, proposing ADAPET which promisingly improves the data efficiency of PET. ADAPET does not leverage unlabelled data for training, and introduces label-conditioned loss for the denser supervision.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2103-11955```
+## Derek Tam
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.07499)<a href="https://scholar.google.com.hk/scholar?q=An+Empirical+Survey+of+Data+Augmentation+for+Limited+Data+Learning+in+NLP"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**](https://arxiv.org/abs/2106.07499) , <br> by *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal and Diyi Yang* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2492-L2499) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```chen2021empirical```
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2103.11955)<a href="https://scholar.google.com.hk/scholar?q=Improving+and+Simplifying+Pattern+Exploiting+Training"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving and Simplifying Pattern Exploiting Training**](https://arxiv.org/abs/2103.11955) , <br> by *Derek Tam and
+Rakesh R. Menon and
+Mohit Bansal and
+Shashank Srivastava and
+Colin Raffel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2763-L2778) <br>```EMNLP 2021, proposing ADAPET which promisingly improves the data efficiency of PET. ADAPET does not leverage unlabelled data for training, and introduces label-conditioned loss for the denser supervision.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2103-11955```
 ## Sebastian Riedel
 
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2104.08786)<a href="https://scholar.google.com.hk/scholar?q=Fantastically+Ordered+Prompts+and+Where+to+Find+Them:+Overcoming+Few-Shot+Prompt+Order+Sensitivity"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot
@@ -914,6 +965,28 @@ Kelvin Guu and
 Luheng He and
 Tim Dozat and
 Hyung Won Chung* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2434-L2445) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2102-01335```
+## Michael Zeng
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.13487)<a href="https://scholar.google.com.hk/scholar?q=Want+To+Reduce+Labeling+Cost?+GPT-3+Can+Help"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Want To Reduce Labeling Cost? GPT-3 Can Help**](https://arxiv.org/abs/2108.13487) , <br> by *Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu and Michael Zeng* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2796-L2806) <br>```EMNLP Findings 2021, adopting GPT-3 for label generation.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang2021want```
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-green)](https://www.aclweb.org/anthology/2020.findings-emnlp.17)<a href="https://scholar.google.com.hk/scholar?q=Few-shot+Natural+Language+Generation+for+Task-Oriented+Dialog"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-shot Natural Language Generation for Task-Oriented Dialog**](https://www.aclweb.org/anthology/2020.findings-emnlp.17) , <br> by *Peng, Baolin  and
+Zhu, Chenguang  and
+Li, Chunyuan  and
+Li, Xiujun  and
+Li, Jinchao  and
+Zeng, Michael  and
+Gao, Jianfeng* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2185-L2198) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```peng-etal-2020-shot```
+## Chenguang Zhu
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2108.13487)<a href="https://scholar.google.com.hk/scholar?q=Want+To+Reduce+Labeling+Cost?+GPT-3+Can+Help"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Want To Reduce Labeling Cost? GPT-3 Can Help**](https://arxiv.org/abs/2108.13487) , <br> by *Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu and Michael Zeng* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2796-L2806) <br>```EMNLP Findings 2021, adopting GPT-3 for label generation.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang2021want```
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-green)](https://www.aclweb.org/anthology/2020.findings-emnlp.17)<a href="https://scholar.google.com.hk/scholar?q=Few-shot+Natural+Language+Generation+for+Task-Oriented+Dialog"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-shot Natural Language Generation for Task-Oriented Dialog**](https://www.aclweb.org/anthology/2020.findings-emnlp.17) , <br> by *Peng, Baolin  and
+Zhu, Chenguang  and
+Li, Chunyuan  and
+Li, Xiujun  and
+Li, Jinchao  and
+Zeng, Michael  and
+Gao, Jianfeng* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2185-L2198) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```peng-etal-2020-shot```
 ## Wenpeng Yin
 
 - [![](https://img.shields.io/badge/NAACL_HLT-2021-green)](https://www.aclweb.org/anthology/2021.naacl-main.106)<a href="https://scholar.google.com.hk/scholar?q=Incremental+Few-shot+Text+Classification+with+Multi-round+New+Classes:+Formulation,+Dataset+and+System"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System**](https://www.aclweb.org/anthology/2021.naacl-main.106) , <br> by *Xia, Congying  and
@@ -1417,23 +1490,6 @@ Anna Korhonen and
 Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2550-L2563) <br>```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2012-15682```
 ## Yi Zhu
-
-- [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+The+Choice+of+Shots+Matters"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
-Zhu, Yi  and
-Shareghi, Ehsan  and
-Vuli{\'c}, Ivan  and
-Reichart, Roi  and
-Korhonen, Anna  and
-Sch{\"u}tze, Hinrich* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L281-L294) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhao-etal-2021-closer```
-- [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2012.15682)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+Variance,+Benchmarks+and+Baselines"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: Variance, Benchmarks
-and Baselines**](https://arxiv.org/abs/2012.15682) , <br> by *Mengjie Zhao and
-Yi Zhu and
-Ehsan Shareghi and
-Roi Reichart and
-Anna Korhonen and
-Hinrich Sch{\"{u}}tze* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L2550-L2563) <br>```ACL 2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2012-15682```
-## Mengjie Zhao
 
 - [![](https://img.shields.io/badge/ACL-2021-green)](https://aclanthology.org/2021.acl-long.447)<a href="https://scholar.google.com.hk/scholar?q=A+Closer+Look+at+Few-Shot+Crosslingual+Transfer:+The+Choice+of+Shots+Matters"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**](https://aclanthology.org/2021.acl-long.447) , <br> by *Zhao, Mengjie  and
 Zhu, Yi  and

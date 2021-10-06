@@ -51,7 +51,7 @@ fined_taxonomy = {
                     "Other Application", ],
     
     # 5: Approach
-    "Approach": ["Rehearsal", "Meta-learning", "Other Approach"],
+    "Approach": ["Meta-learning", "Other Approach", "Prompt"],
     
     # 6: Whether need memory
     "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
