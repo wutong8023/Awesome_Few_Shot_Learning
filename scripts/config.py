@@ -44,6 +44,7 @@ fined_taxonomy = {
     
     # 3: Supervision
     "Supervision": ["Supervised Learning",
+                    
                     "Other Learning Paradigm"],
     
     # 4: Application
