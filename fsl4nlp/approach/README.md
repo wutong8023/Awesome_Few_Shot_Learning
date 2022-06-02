@@ -33,5 +33,5 @@ This page categorizes the literature by the **Few-shot Learning Approach**, filt
 Rakesh R. Menon and
 Mohit Bansal and
 Shashank Srivastava and
-Colin Raffel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L3007-L3022) <br>```EMNLP 2021, proposing ADAPET which promisingly improves the data efficiency of PET. ADAPET does not leverage unlabelled data for training, and introduces label-conditioned loss for the denser supervision.
+Colin Raffel* [[bib]](https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/./bibtex.bib#L3309-L3324) <br>```EMNLP 2021, proposing ADAPET which promisingly improves the data efficiency of PET. ADAPET does not leverage unlabelled data for training, and introduces label-conditioned loss for the denser supervision.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Few_Shot_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2103-11955```
